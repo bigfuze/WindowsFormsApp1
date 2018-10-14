@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            panel1.ForeColor = Color.LimeGreen;
+            panel1.BackColor = Color.LimeGreen;
         }
     }
 }
